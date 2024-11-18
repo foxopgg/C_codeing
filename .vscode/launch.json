@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/USER/Documents/GitHub/C_codeing/day_1/variable",
-      "program": "c:/Users/USER/Documents/GitHub/C_codeing/day_1/variable/build/Debug/outDebug",
+      "cwd": "c:/Users/USER/Documents/GitHub/C_codeing/day_1/3.input_and_output_statement",
+      "program": "c:/Users/USER/Documents/GitHub/C_codeing/day_1/3.input_and_output_statement/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
