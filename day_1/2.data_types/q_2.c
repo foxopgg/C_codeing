@@ -3,8 +3,7 @@
 int main() {
     char grade;
     printf("Enter the student's grade (A-F): ");
-    scanf(" %c", &grade); // Note the space before %c to ignore newline
-
+    scanf(" %c", &grade);
     printf("Grade: %c\n", grade);
     return 0;
 }
