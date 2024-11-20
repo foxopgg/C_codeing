@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/// this version is the same as the 9th one but without string lib 
 int main() {
     char correctPassword[] = "pass123";
     char enteredPassword[20];
